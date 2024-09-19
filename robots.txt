@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://maqat.github.io/MBz/sitemap.MBz.gz
